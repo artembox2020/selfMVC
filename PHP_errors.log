@@ -1,0 +1,5 @@
+[30-May-2018 02:46:44 Europe/Moscow] PHP Warning:  include(/home/g/g91016og/port.g91016og.beget.tech/public_html/classes//classes/Project/Latest/latest.php): failed to open stream: No such file or directory in /home/g/g91016og/port.g91016og.beget.tech/public_html/classes/Base.php on line 38
+[30-May-2018 02:46:44 Europe/Moscow] PHP Warning:  include(): Failed opening '/home/g/g91016og/port.g91016og.beget.tech/public_html/classes//classes/Project/Latest/latest.php' for inclusion (include_path='.:/usr/share/php') in /home/g/g91016og/port.g91016og.beget.tech/public_html/classes/Base.php on line 38
+[31-May-2018 04:00:28 Europe/Moscow] PHP Fatal error:  Class 'ProjectExperience' not found in /home/g/g91016og/port.g91016og.beget.tech/public_html/controllers/MainController.php on line 14
+[01-Jun-2018 01:57:21 Europe/Moscow] PHP Notice:  Undefined variable: languages in /home/g/g91016og/port.g91016og.beget.tech/public_html/layouts/main.php on line 87
+[05-Jun-2018 12:51:39 Europe/Moscow] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/g/g91016og/port.g91016og.beget.tech/public_html/layouts/main.php on line 26

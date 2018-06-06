@@ -1,0 +1,15 @@
+.layout img {
+    width:56%; 
+    margin:10px 22%; 
+    height: 260px;
+}
+.layout .layout-header {
+    width: 100%; 
+    text-align:center;
+}
+.content-container {
+    margin: 16px 16px;
+}
+.glyphicon {
+    cursor: pointer!important;
+}
